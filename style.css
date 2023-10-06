@@ -1,0 +1,93 @@
+/* .back1{
+    background-color: rgb(153, 246, 14);
+} */
+.hd2{
+    text-align: center;
+    margin-top: 50px;
+    color: salmon;
+   
+}
+.feature-icon{
+    justify-content:center;
+}
+.row1{
+    padding: 100px;
+    border: 100px;
+    background-color: rgb(237, 163, 45);
+}
+.hd3{
+    text-align: center;
+}
+.row1 p{
+    text-align: center;
+}
+/* .row1 img{
+    display: block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 165px;    
+} */
+h1{
+    font: italic bold 50px Georgia, serif;
+    color: rgba(75, 86, 42, 0.668);
+}
+.para1{
+    color: white;
+    
+}
+
+
+.gradient-background {
+    background: linear-gradient(300deg, #f2ff00, #4eff02, #31e4b5);
+    background-size: 180% 180%;
+    animation: gradient-animation 5s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+}
+.images{
+margin-bottom: 20px;
+height: 400px;
+
+}
+.img1{
+    background:url(./images/Bag.png) center/300px no-repeat ;
+}
+.img2{
+    background:url(./images/truck.png) center/300px no-repeat ;
+}
+.img3{
+    background:url(./images/heart.png) center/300px no-repeat ;
+
+}
+.p2{
+    margin-left: 50px;
+}
+.t1{
+    margin-left: 50px;
+}
+.images1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 165px;
+}
+.ig1{
+    background: url(./images/Shoe.jpg) center/100px no-repeat;
+}
+.ig2{
+    background: url(./images/Cloth.jpg) center/100px no-repeat;
+}
+.ig3{
+    background: url(./images/Discount.jpg) center/100px no-repeat;
+}
